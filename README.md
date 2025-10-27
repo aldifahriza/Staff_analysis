@@ -40,8 +40,7 @@ Additionally, this workbook includes an interactive information finder feature t
 # 📁 Files Included
 | File Name | Description |
 |------------|-------------|
-| `` | Main Excel file containing analysis, charts, and information finder |
-| `README.md` | Project overview and details |
+| Staff_analysis.xlsx | Main Excel file containing analysis, charts, and information finder |
 
 ---
 
@@ -50,7 +49,6 @@ This project demonstrates the use of **Excel for data storytelling and analysis*
 
 ---
 
-#  Author
-Created by **[Your Name]**  
+#  Author 
 Connect on [LinkedIn](https://www.linkedin.com/in/fahriza-haldi-b72168373/?trk=opento_sprofile_details)  
-Explore more projects on [GitHub]()
+Explore more projects on [GitHub](https://github.com/aldifahriza)
