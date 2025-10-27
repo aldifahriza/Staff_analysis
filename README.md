@@ -40,7 +40,7 @@ Additionally, this workbook includes an interactive information finder feature t
 # 📁 Files Included
 | File Name | Description |
 |------------|-------------|
-| 'Staff_analysis.xlsx' | Main Excel file containing analysis, charts, and information finder |
+| [Staff_analysis.xlsx](./Staff_analysis.xlsx) | Main Excel file containing analysis, charts, and information finder |
 
 ---
 
