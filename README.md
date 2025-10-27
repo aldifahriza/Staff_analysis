@@ -1,7 +1,7 @@
 # Staff_analysis
-Excel-based analysis of staff data from India and New Zealand, exploring salary differences between genders, performance ratings, and overall workforce distribution and information finder.
-# Staff Analysis: India 🇮🇳 vs New Zealand 🇳🇿
+Excel-based analysis of staff data from India and New Zealand, exploring salary differences between genders, performance ratings, and overall workforce distribution and It also includes an interactive information finder, allowing users to search for staff by name or department and view key information instantly.
 
+# Staff Analysis: India 🇮🇳 vs New Zealand 🇳🇿
 This project explores staff data from India and New Zealand using Microsoft Excel to uncover insights about salary, gender, performance ratings, and headcount distribution.
 
 
@@ -41,6 +41,7 @@ Additionally, this workbook includes an interactive information finder feature t
 | File Name | Description |
 |------------|-------------|
 | [Staff_analysis.xlsx](./Staff_analysis.xlsx) | Main Excel file containing analysis, charts, and information finder |
+| [Excel Dashboard Screenshot](./Preview.png) | Project overview and details |
 
 ---
 
